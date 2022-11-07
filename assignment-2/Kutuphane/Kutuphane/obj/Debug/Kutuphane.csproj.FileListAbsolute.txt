@@ -1,0 +1,51 @@
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojResolveAssemblyReference.cache
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.AnaEkran.resources
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.Cache
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapEkle.resources
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapDuzenle.resources
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.AnaEkran.resources
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapDuzenle.resources
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapEkle.resources
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\furka\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.YazarEkle.resources
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.AnaEkran.resources
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapDuzenle.resources
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapEkle.resources
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.YazarEkle.resources
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\Görsel Programlama II\Odev6-GorselProgramlamaKutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojResolveAssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\obj\Debug\Kutuphane.AnaEkran.resources
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapDuzenle.resources
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapEkle.resources
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\obj\Debug\Kutuphane.YazarEkle.resources
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.Cache
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\berka\OneDrive\Masaüstü\e\assignment-2\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb

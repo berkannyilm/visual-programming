@@ -1,0 +1,34 @@
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.exe
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.deps.json
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.runtimeconfig.json
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.dll
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.pdb
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.Form1.resources
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.AssemblyInfo.cs
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.dll
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\refint\GorselProgramlama.dll
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.pdb
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.genruntimeconfig.cache
+C:\Users\furka\Desktop\asd\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\ref\GorselProgramlama.dll
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.exe
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.deps.json
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.runtimeconfig.json
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.dll
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\bin\Debug\net6.0-windows\GorselProgramlama.pdb
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.Form1.resources
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.AssemblyInfo.cs
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.dll
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\refint\GorselProgramlama.dll
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.pdb
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\GorselProgramlama.genruntimeconfig.cache
+C:\Users\furka\Desktop\2.sınıf 1. dönem güz yarıyılı ara sınav\visual-programming\odev2-vizeFinal\GorselProgramlama\GorselProgramlama\obj\Debug\net6.0-windows\ref\GorselProgramlama.dll
